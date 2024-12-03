@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Godswillamos0
-- 👀 I’m interested in IoT and cyber security
-- 🌱 I’m currently learning electronics, backend using Django and PCB design
+- 👀 I’m interested in IoT and cyber security.
+- 🌱 I’m currently learning electronics, backend using FastAPI and Networking.
 - 💞️ I’m looking to collaborate on smart projects or nerdy computer gigs.
 - 📫 How to reach me amosgodswill10@outlook.com
 - 😄 Pronouns: He
